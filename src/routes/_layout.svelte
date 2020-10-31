@@ -1,6 +1,9 @@
+<script context="module">
+  export function preload({ params, query }) {}
+</script>
+
 <script>
   import Nav from "../components/Nav.svelte";
-
   export let segment;
 </script>
 
